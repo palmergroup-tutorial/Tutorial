@@ -19,3 +19,11 @@ def xxx():
 
     return None 
 
+
+# from feature branch
+
+def compute_histogram(num_bins): 
+
+    pass 
+
+    return None 

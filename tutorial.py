@@ -6,7 +6,7 @@ x = np.arange(1,10,0.05)
 y= np.sin(x) 
 
 plt.plot(x,y) 
-
+plt.xlabel("x")
 plt.show() 
 
 xxx.gg 
